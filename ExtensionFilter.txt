@@ -1,0 +1,3 @@
+Text Files (*.txt)|*.txt
+Image Files (*.jpg, *.png)|*.jpg;*.png
+Document Files (*.docx, *.pdf)|*.docx;*.pdf
